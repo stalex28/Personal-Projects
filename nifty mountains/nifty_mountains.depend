@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1537471611 source:p:\coursework-alex-djordjevic\nifty mountains\nifty_mountains\niftyfunctions.cpp
+	"niftyheader.h"
+
+1537554661 p:\coursework-alex-djordjevic\nifty mountains\nifty_mountains\niftyheader.h
+	<iostream>
+	<apvector.h>
+	<apmatrix.h>
+	<fstream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1537899959 source:p:\coursework-alex-djordjevic\nifty mountains\nifty_mountains\niftymountains.cpp
+	"niftyheader.h"
+
+1537926733 source:c:\users\alex\documents\github\coursework-alex-djordjevic\nifty mountains\nifty_mountains\niftyfunctions.cpp
+	"niftyheader.h"
+
+1537924686 c:\users\alex\documents\github\coursework-alex-djordjevic\nifty mountains\nifty_mountains\niftyheader.h
+	<iostream>
+	<apvector.h>
+	<apmatrix.h>
+	<fstream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1537926734 source:c:\users\alex\documents\github\coursework-alex-djordjevic\nifty mountains\nifty_mountains\niftymountains.cpp
+	"niftyheader.h"
+

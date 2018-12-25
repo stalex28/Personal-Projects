@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1541125889 source:c:\users\alex\documents\github\coursework-alex-djordjevic\calculator assignment\rpncalc\calcmain.cpp
+	"calcMain.h"
+
+1541022512 c:\users\alex\documents\github\coursework-alex-djordjevic\calculator assignment\rpncalc\stack.h
+	<apvector.h>
+
+1541119935 source:c:\users\alex\documents\github\coursework-alex-djordjevic\calculator assignment\rpncalc\stack.cpp
+	"stack.h"
+
+1541123788 source:c:\users\alex\documents\github\coursework-alex-djordjevic\calculator assignment\rpncalc\calculator.cpp
+	"calculator.h"
+	<math.h>
+
+1541123493 c:\users\alex\documents\github\coursework-alex-djordjevic\calculator assignment\rpncalc\calculator.h
+	"stack.h"
+
+1541181176 source:p:\github\coursework-alex-djordjevic\calculator assignment\rpncalc\calcmain.cpp
+	"calcMain.h"
+
+1541181177 p:\github\coursework-alex-djordjevic\calculator assignment\rpncalc\calculator.h
+	"stack.h"
+
+1541089418 p:\github\coursework-alex-djordjevic\calculator assignment\rpncalc\stack.h
+	<apvector.h>
+
+1541181177 source:p:\github\coursework-alex-djordjevic\calculator assignment\rpncalc\calculator.cpp
+	"calculator.h"
+	<math.h>
+
+1541181179 source:p:\github\coursework-alex-djordjevic\calculator assignment\rpncalc\stack.cpp
+	"stack.h"
+
+1541020936 source:c:\users\alex\documents\github\coursework-alex-djordjevic\calculator assignment\rpncalc\linkedlist.cpp
+	"linkedlist.h"
+
+1541020936 c:\users\alex\documents\github\coursework-alex-djordjevic\calculator assignment\rpncalc\linkedlist.h
+
+1541125884 c:\users\alex\documents\github\coursework-alex-djordjevic\calculator assignment\rpncalc\calcmain.h
+	"calculator.h"
+	<iostream>
+	<apstring.h>
+	<apstring.cpp>
+	<apvector.h>
+	<math.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1541181176 p:\github\coursework-alex-djordjevic\calculator assignment\rpncalc\calcmain.h
+	"calculator.h"
+	<iostream>
+	<apstring.h>
+	<apstring.cpp>
+	<apvector.h>
+	<math.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+

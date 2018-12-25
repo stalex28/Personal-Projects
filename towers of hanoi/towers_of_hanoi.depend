@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1542134672 source:p:\github\coursework-alex-djordjevic\towers_of_hanoi\disk.cpp
+	"disk.h"
+
+1542306581 p:\github\coursework-alex-djordjevic\towers_of_hanoi\disk.h
+	<apvector.h>
+
+1542306597 source:p:\github\coursework-alex-djordjevic\towers_of_hanoi\hanoimain.cpp
+	<iostream>
+	"disk.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1542915130 source:\\ad.ocdsb.ca\studenthome\6\s347140096\github\coursework-alex-djordjevic\towers of hanoi\disk.cpp
+	"disk.h"
+
+1542915130 \\ad.ocdsb.ca\studenthome\6\s347140096\github\coursework-alex-djordjevic\towers of hanoi\disk.h
+	<apvector.h>
+
+1542767918 source:c:\users\alex\documents\github\coursework-alex-djordjevic\towers of hanoi\disk.cpp
+	"disk.h"
+
+1542767002 c:\users\alex\documents\github\coursework-alex-djordjevic\towers of hanoi\disk.h
+	<apvector.h>
+
+1542768001 source:c:\users\alex\documents\github\coursework-alex-djordjevic\towers of hanoi\hanoimain.cpp
+	<iostream>
+	"disk.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1542825071 source:\\ad.ocdsb.ca\studenthome\6\s347140096\github\coursework-alex-djordjevic\towers of hanoi\hanoimain.cpp
+	<iostream>
+	"disk.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+

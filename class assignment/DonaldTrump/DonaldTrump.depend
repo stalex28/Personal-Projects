@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1539917858 source:c:\users\alex\documents\github\coursework-alex-djordjevic\class assignment\donaldtrump\donaldmain.cpp
+	<iostream>
+	"TheDonald.h"
+	<apstring.cpp>
+
+1539917749 c:\users\alex\documents\github\coursework-alex-djordjevic\class assignment\donaldtrump\thedonald.h
+	<apstring.h>
+
+1539917761 source:c:\users\alex\documents\github\coursework-alex-djordjevic\class assignment\donaldtrump\thedonald.cpp
+	"TheDonald.h"
+	<iostream>
+	<time.h>
+
+1539970409 source:p:\coursework-alex-djordjevic\class assignment\donaldtrump\donaldmain.cpp
+	<iostream>
+	"TheDonald.h"
+	<apstring.cpp>
+
+1539970366 p:\coursework-alex-djordjevic\class assignment\donaldtrump\thedonald.h
+	<apstring.h>
+
+1539970366 source:p:\coursework-alex-djordjevic\class assignment\donaldtrump\thedonald.cpp
+	"TheDonald.h"
+	<iostream>
+	<time.h>
+
